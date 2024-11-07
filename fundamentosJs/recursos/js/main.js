@@ -40,3 +40,8 @@ let y= 17 + " poo ";
 let unir = "17" + "poo";
 window.alert(y);
 window.alert(unir);
+
+/*funcion*/
+function myfunction(){
+    document.getElementById("demo2").innerHTML = "new paragraph";
+}
